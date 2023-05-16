@@ -1,0 +1,11 @@
+F:\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+F:\C#\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Properties.Resources.resources
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.GenerateResource.cache
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+F:\C#\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form2.resources
